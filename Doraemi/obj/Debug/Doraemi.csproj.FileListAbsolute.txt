@@ -1,0 +1,6 @@
+C:\Personal\Test\Doraemi\Doraemi\bin\Debug\Doraemi.exe.config
+C:\Personal\Test\Doraemi\Doraemi\bin\Debug\Doraemi.exe
+C:\Personal\Test\Doraemi\Doraemi\bin\Debug\Doraemi.pdb
+C:\Personal\Test\Doraemi\Doraemi\obj\Debug\Doraemi.csprojAssemblyReference.cache
+C:\Personal\Test\Doraemi\Doraemi\obj\Debug\Doraemi.exe
+C:\Personal\Test\Doraemi\Doraemi\obj\Debug\Doraemi.pdb
